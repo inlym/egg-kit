@@ -1,0 +1,26 @@
+{
+  "name": "egg-kit",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inlym/egg-kit.git"
+  },
+  "keywords": [
+    "inlym",
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "kit"
+  ],
+  "author": "inlym",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inlym/egg-kit/issues"
+  },
+  "homepage": "https://github.com/inlym/egg-kit#readme"
+}
