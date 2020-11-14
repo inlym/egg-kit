@@ -1,6 +1,6 @@
 {
   "name": "egg-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
     "eggPlugin",
     "kit"
   ],
+  "eggPlugin": {
+    "name": "kit"
+  },
   "author": "inlym",
   "license": "MIT",
   "bugs": {
